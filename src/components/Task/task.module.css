@@ -1,0 +1,20 @@
+li{
+  display: flex;
+    justify-content: space-between;
+}
+
+li>div{
+  display:flex
+}
+
+.delete{
+    height: 31px;
+    margin-top: 9px;
+    opacity: 0.0;
+    background-color: black;
+}
+
+.delete:hover{
+  opacity: 1.0;
+}
+
